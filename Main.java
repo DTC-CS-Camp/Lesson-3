@@ -18,17 +18,25 @@ class Main {
     
     
     
-    
-    
   //problem 3 below
   
 
+    
     
     
   //problem 4 below
   //System.out.println("Problem 4: Enter a positive integer:");
 
 
+    
+    
+    
+  //problem 5 below
+  //Create the 2 Person objects and print out the sum of their ages!
+    
+    
+    
+    
 
 
   //EDIT CODE BELOW \/
