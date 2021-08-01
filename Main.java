@@ -8,7 +8,13 @@ class Main {
   System.out.println("Problem 1: Enter a positive integer:");
   
  
+    
+    
+    
   //problem 2 below
+  System.out.println("Problem 2: Enter a positive integer:");
+    
+    
     
     
     
