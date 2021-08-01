@@ -37,6 +37,12 @@ class Main {
     
     
     
+    
+   //problem 6 below (optional-- 2D arrays are hard!)
+    
+    
+    
+    
 
 
   //EDIT CODE BELOW \/
