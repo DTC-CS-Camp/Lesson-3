@@ -5,14 +5,14 @@ class Main {
   //EDIT CODE BELOW \/
 
   //problem 1 below
-  System.out.println("Problem 1: Enter a positive integer:");
+  //System.out.println("Problem 1: Enter a positive integer:");
   
  
     
     
     
   //problem 2 below
-  System.out.println("Problem 2: Enter a positive integer:");
+  //System.out.println("Problem 2: Enter a positive integer:");
     
     
     
@@ -23,6 +23,10 @@ class Main {
   //problem 3 below
   
 
+    
+    
+  //problem 4 below
+  //System.out.println("Problem 4: Enter a positive integer:");
 
 
 
